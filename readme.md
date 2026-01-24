@@ -61,7 +61,7 @@
 
 ## 📈 My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsergeevichisit&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=igorsergeevichisit&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorsergeevichisit&layout=compact&theme=vision-friendly-dark)
 
