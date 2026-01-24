@@ -26,8 +26,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
