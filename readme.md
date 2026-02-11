@@ -61,7 +61,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=igorsergeevichisit&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorsergeevichisit&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorSergeevichISIT&theme=solarized_dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Igorsergeevichisit)
 
